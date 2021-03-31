@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on TerRALi</title>
+    <link>https://terli.github.io/post/</link>
+    <description>Recent content in Posts on TerRALi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Mar 2021 11:36:58 +0800</lastBuildDate><atom:link href="https://terli.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>https://terli.github.io/p/hello-world/</link>
+      <pubDate>Wed, 31 Mar 2021 11:36:58 +0800</pubDate>
+      
+      <guid>https://terli.github.io/p/hello-world/</guid>
+      <description>Hello World! 一切，从这开始~</description>
+    </item>
+    
+  </channel>
+</rss>
