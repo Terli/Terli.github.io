@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "izuna",
+	"model": "moc/izuna.moc",
+	"textures": [
+		"moc/izuna.2048/texture_04.png"
+	]
+}
